@@ -32,11 +32,10 @@ A Jupyter-style coding notebook for JavaScript. Write markdown notes, execute Ja
 ### Installation
 
 1. Clone the repository
+
    ```sh
    git clone https://github.com/patrick-lei-shi/CodexNote.git
    ```
-
-````
 
 2. Navigate to the project directory
 
@@ -88,4 +87,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](./LICENSE)
-````
+
+```
+
+```
